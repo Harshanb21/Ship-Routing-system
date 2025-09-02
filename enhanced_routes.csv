@@ -1,0 +1,1001 @@
+Source,Destination,Distance_km
+Shanghai,Sydney,14186
+Shanghai,St. Petersburg,15244
+Genoa,Singapore,12778
+Dubai,Barcelona,4705
+Los Angeles,Istanbul,817
+Vancouver,Jakarta,12121
+Tokyo,New York,14234
+Sydney,Jakarta,13717
+Le Havre,Port Klang,18116
+Los Angeles,Tokyo,19733
+Singapore,Barcelona,1555
+Dubai,Tokyo,19118
+Busan,Veracruz,19304
+Rio de Janeiro,Shanghai,13300
+Suez,Genoa,13162
+Shanghai,Vancouver,4059
+Tokyo,Barcelona,15295
+Busan,Los Angeles,3555
+Cape Town,Rotterdam,18617
+Cape Town,Colombo,16510
+Singapore,Cape Town,7020
+Suez,Rio de Janeiro,9800
+Shanghai,New York,10038
+Jakarta,London,2793
+St. Petersburg,Colombo,12579
+London,Singapore,6130
+Tokyo,Sydney,13315
+Cape Town,Rotterdam,4731
+Genoa,Sydney,16171
+Istanbul,Suez,13246
+Shanghai,Dubai,7239
+Los Angeles,Sydney,16057
+Cape Town,Veracruz,19344
+Los Angeles,Barcelona,7151
+London,Port Klang,15539
+Hamburg,Shanghai,743
+Dubai,St. Petersburg,2596
+Rio de Janeiro,Veracruz,8588
+London,Tokyo,19152
+Vancouver,St. Petersburg,15661
+Barcelona,Colombo,3485
+Los Angeles,Busan,15452
+Mumbai,Port Klang,10246
+Rio de Janeiro,Veracruz,6238
+Sydney,New York,6384
+Veracruz,Istanbul,14658
+St. Petersburg,Rio de Janeiro,6511
+Port Klang,Barcelona,3630
+Rio de Janeiro,Port Klang,1930
+New York,Cape Town,9471
+Busan,Genoa,10064
+Jakarta,Suez,7619
+Vancouver,Sydney,18614
+Rotterdam,Mumbai,3007
+Le Havre,Rotterdam,17028
+Le Havre,Tokyo,13938
+St. Petersburg,Cape Town,8782
+Shanghai,London,1962
+St. Petersburg,Singapore,2898
+Busan,Port Klang,15635
+Rio de Janeiro,Tokyo,13585
+Shanghai,Rio de Janeiro,1737
+Singapore,Hamburg,4257
+Port Klang,Dubai,11218
+Jakarta,Istanbul,15712
+Vancouver,St. Petersburg,2735
+Suez,Genoa,8439
+Port Klang,St. Petersburg,5095
+Vancouver,Hamburg,5787
+Cape Town,Singapore,3793
+Cape Town,Los Angeles,4568
+Genoa,Istanbul,13307
+Cape Town,Suez,867
+Jakarta,Hamburg,5529
+St. Petersburg,Mumbai,6330
+Shanghai,Port Klang,1628
+Jakarta,Genoa,7583
+St. Petersburg,Port Klang,2064
+Busan,London,3868
+Rio de Janeiro,Port Klang,10603
+St. Petersburg,Colombo,652
+Colombo,Le Havre,12866
+Le Havre,Shanghai,8682
+Mumbai,New York,7053
+Suez,Singapore,14317
+Singapore,Tokyo,6796
+Jakarta,Suez,7727
+Rotterdam,Jakarta,6001
+Istanbul,Cape Town,1942
+Sydney,London,4028
+Tokyo,Genoa,6711
+Veracruz,Shanghai,18250
+Rio de Janeiro,Sydney,4458
+New York,Shanghai,3969
+Mumbai,Tokyo,6189
+Singapore,Rio de Janeiro,10862
+Singapore,Rio de Janeiro,7471
+St. Petersburg,New York,2663
+Jakarta,Hamburg,12590
+Colombo,Suez,7661
+Sydney,Los Angeles,16870
+Rotterdam,Port Klang,18069
+Barcelona,Cape Town,8755
+Rotterdam,Veracruz,11128
+Busan,Port Klang,13232
+Jakarta,Le Havre,4855
+Tokyo,Cape Town,10919
+Jakarta,Vancouver,2712
+Tokyo,Singapore,19670
+St. Petersburg,Rio de Janeiro,17245
+Busan,Istanbul,8116
+London,Barcelona,935
+New York,Singapore,4565
+Los Angeles,New York,14541
+Le Havre,New York,3101
+Colombo,Dubai,12772
+Vancouver,Los Angeles,7119
+Dubai,Rio de Janeiro,7197
+Busan,Colombo,8300
+Istanbul,Veracruz,15040
+Istanbul,Tokyo,4899
+Hamburg,Tokyo,1797
+London,Sydney,9952
+Le Havre,Singapore,8004
+Istanbul,Tokyo,11730
+New York,Shanghai,18172
+Colombo,Jakarta,8637
+Jakarta,Port Klang,7789
+Veracruz,Rio de Janeiro,17587
+Tokyo,Cape Town,14995
+Busan,Singapore,2617
+Vancouver,Suez,6806
+Colombo,Busan,5137
+Shanghai,Dubai,3506
+Cape Town,Barcelona,18484
+Shanghai,New York,17127
+Suez,Sydney,15805
+Los Angeles,Cape Town,6972
+New York,Sydney,6281
+Veracruz,New York,10432
+Los Angeles,Barcelona,15188
+Busan,Shanghai,9408
+Vancouver,Suez,12282
+Rio de Janeiro,Cape Town,15924
+St. Petersburg,Sydney,17057
+Veracruz,Istanbul,14702
+Le Havre,Dubai,16294
+Singapore,Le Havre,12998
+Sydney,Suez,10337
+Veracruz,Genoa,5506
+Genoa,Istanbul,6257
+Hamburg,Rio de Janeiro,15692
+Los Angeles,St. Petersburg,9780
+Rio de Janeiro,Genoa,16256
+Suez,Tokyo,4977
+Port Klang,Vancouver,6913
+Dubai,Shanghai,636
+Singapore,London,12763
+Vancouver,Rio de Janeiro,14125
+Rio de Janeiro,Istanbul,12727
+Rio de Janeiro,Vancouver,10586
+Busan,Barcelona,2834
+Sydney,Colombo,4578
+Rio de Janeiro,Barcelona,5820
+Shanghai,Le Havre,14796
+Hamburg,Le Havre,11922
+London,Port Klang,16511
+Busan,Port Klang,12564
+Port Klang,Colombo,13126
+Sydney,Istanbul,8586
+New York,Vancouver,1630
+Mumbai,Busan,1425
+Port Klang,Jakarta,5345
+Hamburg,Veracruz,15424
+Jakarta,Dubai,8832
+New York,Veracruz,19451
+Jakarta,Cape Town,904
+Rotterdam,Le Havre,3524
+Busan,Port Klang,13094
+Rio de Janeiro,Port Klang,19707
+Suez,London,6687
+Sydney,Cape Town,14487
+Hamburg,Port Klang,10403
+London,Genoa,13043
+Barcelona,Los Angeles,13987
+Le Havre,Istanbul,3412
+Rotterdam,Busan,19263
+Le Havre,Mumbai,5176
+Hamburg,Istanbul,7365
+Istanbul,Rio de Janeiro,10595
+Singapore,Cape Town,16612
+Singapore,Rotterdam,2788
+Le Havre,Port Klang,14191
+London,Sydney,9948
+Istanbul,Sydney,6091
+Cape Town,Mumbai,6607
+Port Klang,Dubai,6988
+Vancouver,Cape Town,16969
+Rotterdam,St. Petersburg,19082
+Shanghai,Cape Town,7084
+Colombo,Istanbul,6487
+Le Havre,Shanghai,8998
+Sydney,St. Petersburg,4078
+Busan,Cape Town,3115
+Los Angeles,Suez,12877
+Rotterdam,Hamburg,2605
+Tokyo,Singapore,19690
+New York,Vancouver,16398
+Jakarta,Le Havre,3803
+Singapore,Colombo,9218
+Le Havre,Singapore,19585
+Colombo,Rotterdam,7416
+London,Singapore,12809
+Veracruz,London,9210
+Vancouver,Le Havre,11543
+Veracruz,Sydney,11528
+Mumbai,Jakarta,11741
+Tokyo,New York,12336
+Jakarta,Rio de Janeiro,12900
+Veracruz,Colombo,12166
+Tokyo,Rotterdam,601
+St. Petersburg,Port Klang,13666
+Istanbul,Dubai,1341
+Veracruz,Rotterdam,17887
+Hamburg,Port Klang,8644
+Mumbai,St. Petersburg,16071
+London,Sydney,6658
+Singapore,Busan,11057
+Singapore,Busan,12303
+Colombo,Istanbul,11166
+Jakarta,St. Petersburg,8153
+Veracruz,Vancouver,13612
+Istanbul,Veracruz,3166
+Mumbai,Sydney,16101
+Jakarta,Port Klang,3791
+Istanbul,Rio de Janeiro,10129
+Veracruz,Shanghai,5191
+London,Barcelona,17035
+Colombo,Dubai,16816
+Suez,Los Angeles,18481
+St. Petersburg,Cape Town,15123
+Rotterdam,Vancouver,18216
+New York,Shanghai,6084
+Le Havre,Jakarta,3430
+Rotterdam,Sydney,1457
+Cape Town,Tokyo,13066
+Le Havre,Hamburg,7721
+Istanbul,Hamburg,16107
+Jakarta,Rotterdam,4948
+Genoa,Busan,16620
+Suez,Port Klang,11405
+New York,Barcelona,2619
+Busan,Tokyo,12853
+Port Klang,Istanbul,13005
+Busan,Genoa,14818
+New York,Hamburg,4290
+Los Angeles,Suez,4149
+Suez,Tokyo,19905
+Shanghai,Istanbul,4304
+Barcelona,Mumbai,4675
+Tokyo,Rio de Janeiro,19404
+Istanbul,Singapore,10684
+Colombo,Barcelona,18050
+Shanghai,Rio de Janeiro,14383
+Tokyo,Le Havre,12461
+Jakarta,Dubai,17531
+Jakarta,Veracruz,19858
+New York,Rotterdam,13453
+Singapore,Genoa,15593
+Tokyo,Dubai,10226
+New York,Vancouver,15435
+Dubai,Veracruz,9786
+Dubai,Istanbul,1625
+Veracruz,Tokyo,10621
+London,Port Klang,4545
+Hamburg,Port Klang,19307
+Vancouver,Busan,7568
+Vancouver,Los Angeles,12843
+Colombo,Tokyo,5503
+Port Klang,Shanghai,7875
+Port Klang,Istanbul,2222
+Le Havre,Cape Town,16474
+Istanbul,Rio de Janeiro,10300
+Jakarta,Cape Town,1206
+Genoa,Rio de Janeiro,11556
+Sydney,Jakarta,16013
+Mumbai,Le Havre,13324
+Rio de Janeiro,Suez,17796
+Istanbul,Los Angeles,9752
+Port Klang,Shanghai,18457
+Rio de Janeiro,Rotterdam,4789
+Tokyo,Le Havre,19518
+Colombo,Port Klang,10463
+St. Petersburg,Busan,5863
+Barcelona,Dubai,14979
+Port Klang,Vancouver,10038
+Dubai,Shanghai,7647
+Istanbul,Shanghai,799
+Mumbai,Istanbul,19363
+Rotterdam,Jakarta,5336
+Rio de Janeiro,Sydney,6012
+Colombo,Rotterdam,12151
+Vancouver,Cape Town,2219
+Rotterdam,London,11591
+Barcelona,Sydney,5368
+Busan,Istanbul,13738
+New York,Colombo,4392
+New York,Rio de Janeiro,16511
+Los Angeles,Port Klang,6152
+Busan,Istanbul,12800
+Le Havre,Port Klang,3436
+Le Havre,St. Petersburg,13020
+Hamburg,Busan,15085
+Mumbai,Singapore,4432
+Rotterdam,Suez,4499
+Vancouver,Busan,17203
+New York,Singapore,19729
+Barcelona,Vancouver,9469
+Port Klang,Istanbul,3598
+Barcelona,Cape Town,13081
+Vancouver,Busan,14710
+Los Angeles,Barcelona,4603
+Rotterdam,Tokyo,2580
+Port Klang,Genoa,6558
+Rio de Janeiro,Port Klang,1147
+Rio de Janeiro,Genoa,18077
+London,Vancouver,2594
+London,Barcelona,18161
+Port Klang,Busan,4566
+Le Havre,Shanghai,4344
+Cape Town,Veracruz,6396
+Singapore,Genoa,15154
+Tokyo,Rotterdam,1782
+Dubai,Barcelona,7257
+Busan,Cape Town,3377
+Genoa,Hamburg,1647
+Suez,Rotterdam,17085
+Los Angeles,Mumbai,18339
+Cape Town,Sydney,502
+New York,Los Angeles,2012
+London,Los Angeles,18001
+St. Petersburg,Dubai,19409
+Vancouver,Port Klang,10754
+London,Mumbai,18136
+London,Shanghai,3744
+Jakarta,Colombo,8269
+Colombo,Shanghai,5142
+Los Angeles,Shanghai,4897
+Veracruz,Genoa,7579
+Barcelona,Mumbai,9589
+Dubai,Istanbul,14328
+Suez,Genoa,8854
+Hamburg,Rio de Janeiro,5851
+Rio de Janeiro,St. Petersburg,3228
+Hamburg,Jakarta,14437
+Port Klang,Dubai,18060
+Shanghai,Suez,9327
+Busan,Port Klang,6812
+Port Klang,Mumbai,18969
+Jakarta,Busan,17258
+Veracruz,Cape Town,14252
+Dubai,Tokyo,14709
+Rio de Janeiro,Singapore,8610
+Suez,Hamburg,4583
+Genoa,Rotterdam,18468
+Sydney,Suez,11292
+Busan,Suez,12388
+Tokyo,Le Havre,9453
+Dubai,New York,9466
+Singapore,Rotterdam,12858
+New York,Rio de Janeiro,3940
+Rotterdam,Cape Town,17751
+Istanbul,Los Angeles,19794
+Vancouver,Rotterdam,17832
+Mumbai,Port Klang,19248
+Los Angeles,Genoa,9381
+Veracruz,Rotterdam,2071
+Cape Town,Tokyo,13265
+Cape Town,Mumbai,17922
+Genoa,Veracruz,13694
+Vancouver,Barcelona,4680
+Hamburg,Singapore,17328
+Port Klang,Dubai,4640
+Dubai,Rio de Janeiro,19097
+Istanbul,Hamburg,2232
+Istanbul,Busan,12629
+Port Klang,Le Havre,8662
+Jakarta,Veracruz,14205
+Port Klang,St. Petersburg,6499
+St. Petersburg,Mumbai,15857
+London,Los Angeles,9538
+Sydney,London,7996
+Los Angeles,Busan,3348
+Los Angeles,Sydney,10747
+Suez,Busan,3104
+Suez,Istanbul,8365
+Suez,Cape Town,19351
+Colombo,Suez,9866
+Genoa,Vancouver,850
+Sydney,Jakarta,17168
+Istanbul,Dubai,16217
+Vancouver,London,17945
+Port Klang,Rotterdam,13786
+Singapore,Veracruz,6731
+Istanbul,Singapore,14425
+Port Klang,Genoa,11806
+New York,Istanbul,17805
+Jakarta,Veracruz,1887
+Veracruz,St. Petersburg,6022
+Jakarta,Le Havre,17654
+New York,Cape Town,2961
+Mumbai,Dubai,17332
+Mumbai,Colombo,14351
+Vancouver,Rio de Janeiro,6086
+Mumbai,Rotterdam,11574
+Jakarta,New York,18165
+Le Havre,Rotterdam,10004
+Los Angeles,Vancouver,10118
+Hamburg,Shanghai,573
+Istanbul,Busan,19139
+Rio de Janeiro,Shanghai,10488
+Busan,London,1660
+St. Petersburg,Veracruz,16499
+Colombo,Mumbai,693
+Veracruz,St. Petersburg,11265
+Los Angeles,Mumbai,4011
+Singapore,Mumbai,6600
+Rio de Janeiro,Mumbai,790
+Rotterdam,Sydney,16623
+Shanghai,Suez,17837
+London,Dubai,13958
+Rotterdam,Vancouver,726
+Dubai,Le Havre,8696
+New York,Vancouver,13455
+Mumbai,Los Angeles,12443
+Sydney,Cape Town,18077
+Hamburg,Rotterdam,14871
+Jakarta,St. Petersburg,5802
+Dubai,Mumbai,14720
+Singapore,Mumbai,7003
+Rotterdam,Shanghai,9835
+Colombo,Dubai,13428
+Sydney,Istanbul,11353
+Colombo,Cape Town,7020
+Vancouver,Jakarta,9209
+Rotterdam,Sydney,16525
+Genoa,Vancouver,4675
+Tokyo,Le Havre,13603
+London,Istanbul,13241
+Dubai,Rotterdam,4034
+Singapore,Dubai,5596
+Mumbai,London,947
+Le Havre,Jakarta,8249
+Colombo,Jakarta,11711
+Sydney,Veracruz,763
+Sydney,Vancouver,9985
+Los Angeles,Vancouver,3207
+Le Havre,Sydney,8618
+Veracruz,Dubai,17252
+Cape Town,New York,9712
+Le Havre,Rotterdam,9135
+Port Klang,New York,14562
+Shanghai,Vancouver,3877
+Port Klang,Istanbul,16960
+Veracruz,Cape Town,6682
+Barcelona,Busan,5373
+New York,Rotterdam,4835
+Rio de Janeiro,Colombo,9473
+Shanghai,Dubai,14469
+Singapore,Veracruz,7041
+Suez,Colombo,12963
+Sydney,London,10541
+Port Klang,Busan,8083
+New York,Tokyo,14461
+Vancouver,Colombo,17207
+Sydney,Busan,2192
+Los Angeles,Rotterdam,9322
+Mumbai,Hamburg,12002
+Port Klang,Sydney,8592
+Tokyo,Colombo,6455
+Colombo,Singapore,2208
+Jakarta,Istanbul,11039
+Shanghai,Los Angeles,15968
+Hamburg,Veracruz,3801
+Sydney,Cape Town,8766
+Vancouver,Mumbai,11453
+Los Angeles,Rotterdam,3674
+Jakarta,Singapore,18580
+Le Havre,Dubai,11353
+Mumbai,Istanbul,12341
+Istanbul,Le Havre,19797
+London,Veracruz,12676
+New York,Busan,9542
+Shanghai,Barcelona,13084
+Suez,Rotterdam,4775
+Busan,Istanbul,4443
+Colombo,Barcelona,6740
+Shanghai,Port Klang,15106
+Rotterdam,Suez,18410
+Veracruz,Tokyo,10378
+Istanbul,Vancouver,7119
+Genoa,Istanbul,5535
+Colombo,Dubai,6781
+Sydney,Genoa,8774
+Le Havre,Genoa,11881
+Mumbai,St. Petersburg,4347
+Sydney,Suez,16321
+Sydney,London,17010
+Singapore,Cape Town,9483
+Port Klang,Dubai,9991
+Colombo,Barcelona,2492
+Port Klang,Shanghai,13525
+Vancouver,Jakarta,17947
+London,Suez,5923
+St. Petersburg,Le Havre,17188
+Rio de Janeiro,Genoa,13287
+Rio de Janeiro,Veracruz,9396
+Shanghai,Cape Town,617
+Cape Town,Barcelona,7637
+Barcelona,Port Klang,790
+London,St. Petersburg,17009
+Port Klang,Istanbul,17705
+Hamburg,Los Angeles,7719
+Los Angeles,Port Klang,9298
+Genoa,Rotterdam,6106
+New York,Colombo,17983
+New York,Los Angeles,1780
+Busan,Dubai,9601
+Dubai,Hamburg,2188
+Busan,New York,7380
+Genoa,Rotterdam,545
+Busan,Mumbai,12595
+Tokyo,Suez,18498
+Hamburg,Istanbul,4878
+Sydney,Veracruz,10163
+Tokyo,Colombo,841
+Mumbai,New York,9664
+Cape Town,Hamburg,1012
+Genoa,Jakarta,19612
+Rotterdam,Istanbul,13016
+Busan,Hamburg,18551
+Shanghai,St. Petersburg,7729
+Tokyo,Hamburg,7182
+Barcelona,Busan,13458
+Dubai,St. Petersburg,8093
+Istanbul,Sydney,12579
+Dubai,Vancouver,3570
+Vancouver,Cape Town,15553
+Cape Town,Shanghai,19166
+Vancouver,Istanbul,6411
+Busan,Los Angeles,1189
+Los Angeles,Cape Town,6323
+Rio de Janeiro,Jakarta,6655
+Suez,Dubai,2860
+Sydney,New York,15410
+Busan,Rio de Janeiro,3784
+Istanbul,London,4998
+Istanbul,Le Havre,886
+Veracruz,Rotterdam,12882
+Rio de Janeiro,Singapore,4105
+Singapore,Le Havre,1933
+Dubai,New York,3239
+Hamburg,Dubai,942
+Singapore,Rotterdam,18272
+Istanbul,Tokyo,3284
+Shanghai,Dubai,16242
+Le Havre,Barcelona,15059
+Cape Town,Los Angeles,11370
+Vancouver,Dubai,8489
+Colombo,Genoa,9264
+Busan,Genoa,4532
+Singapore,Colombo,3869
+Genoa,Los Angeles,3860
+London,Sydney,5147
+Singapore,New York,1286
+New York,Sydney,13128
+Dubai,Mumbai,9899
+New York,Jakarta,13107
+Jakarta,Port Klang,4183
+Vancouver,Cape Town,4108
+New York,Rotterdam,9734
+Mumbai,Suez,11435
+Rotterdam,Mumbai,3278
+Colombo,Veracruz,5451
+Cape Town,Sydney,17882
+Tokyo,Veracruz,6442
+Jakarta,Sydney,5422
+Jakarta,Los Angeles,9904
+Mumbai,Rotterdam,9383
+Vancouver,Jakarta,12595
+Hamburg,Port Klang,3002
+Singapore,Dubai,5303
+Tokyo,Dubai,13299
+St. Petersburg,Istanbul,16177
+Suez,Rotterdam,19434
+Sydney,Istanbul,9625
+Dubai,Suez,11085
+Dubai,Cape Town,13116
+Mumbai,Tokyo,16694
+Sydney,Vancouver,14064
+Veracruz,Busan,11426
+Dubai,Busan,8557
+Rio de Janeiro,Sydney,18500
+Vancouver,Genoa,17990
+Vancouver,Genoa,18070
+New York,Rio de Janeiro,3239
+Barcelona,Port Klang,14322
+London,Barcelona,7687
+Port Klang,Suez,8206
+Mumbai,Singapore,7161
+Singapore,Mumbai,18796
+Vancouver,Dubai,4109
+Colombo,Mumbai,12324
+Le Havre,Dubai,10156
+St. Petersburg,Dubai,18571
+Sydney,New York,7405
+New York,Colombo,5015
+Rotterdam,Port Klang,5188
+Rio de Janeiro,Istanbul,1363
+Port Klang,Sydney,12679
+Colombo,Port Klang,3973
+Jakarta,Barcelona,2917
+Vancouver,Veracruz,5683
+Singapore,Dubai,12468
+Dubai,Suez,8529
+Suez,Singapore,19150
+Sydney,Dubai,6477
+Vancouver,Istanbul,5091
+Istanbul,London,10314
+Vancouver,Sydney,11553
+St. Petersburg,Busan,932
+Los Angeles,Rotterdam,5608
+Colombo,Busan,1552
+Veracruz,Le Havre,6187
+London,Cape Town,856
+Rio de Janeiro,Sydney,15386
+Genoa,Port Klang,8955
+Barcelona,London,10528
+Port Klang,New York,14382
+Cape Town,Hamburg,3512
+London,Rio de Janeiro,4600
+Istanbul,Shanghai,13620
+Veracruz,Colombo,7673
+Rio de Janeiro,Cape Town,18826
+Veracruz,Suez,15849
+Vancouver,Tokyo,13774
+Rio de Janeiro,Cape Town,2291
+Mumbai,Busan,14400
+Shanghai,Hamburg,4052
+Rotterdam,Suez,12385
+Veracruz,Le Havre,11492
+Singapore,New York,9747
+Cape Town,Genoa,3988
+Suez,Shanghai,859
+Le Havre,Los Angeles,6651
+Genoa,Shanghai,1560
+New York,Hamburg,3286
+Barcelona,Colombo,18972
+Vancouver,Colombo,2074
+Tokyo,Suez,10612
+Singapore,Mumbai,9753
+Rio de Janeiro,London,6885
+Tokyo,Le Havre,13300
+Istanbul,Mumbai,4744
+Port Klang,Jakarta,3690
+Tokyo,Sydney,17001
+Rotterdam,London,5421
+Singapore,Barcelona,13021
+Vancouver,Barcelona,1725
+Los Angeles,Cape Town,5465
+Jakarta,St. Petersburg,3080
+Busan,Suez,8088
+Shanghai,Jakarta,5115
+Le Havre,Port Klang,5777
+London,Istanbul,17647
+Le Havre,Tokyo,15163
+Dubai,Tokyo,10030
+Mumbai,Veracruz,14619
+Colombo,Port Klang,13201
+New York,Shanghai,2957
+Dubai,Barcelona,16802
+Rotterdam,Singapore,5173
+Le Havre,Los Angeles,18428
+Suez,Vancouver,3583
+St. Petersburg,Tokyo,6061
+Los Angeles,Cape Town,2733
+Hamburg,Barcelona,12405
+Mumbai,Suez,2830
+Cape Town,Port Klang,15597
+Hamburg,Vancouver,8889
+Le Havre,St. Petersburg,5102
+Rotterdam,Barcelona,16499
+Colombo,Mumbai,9892
+Rio de Janeiro,Sydney,4726
+St. Petersburg,Mumbai,17292
+Veracruz,Tokyo,12744
+Suez,Jakarta,14039
+London,St. Petersburg,9112
+Jakarta,Colombo,2369
+Istanbul,New York,18876
+Singapore,Dubai,3950
+Los Angeles,Rio de Janeiro,5684
+Barcelona,Rio de Janeiro,2891
+New York,Rio de Janeiro,15647
+Jakarta,Suez,11933
+St. Petersburg,Busan,18034
+St. Petersburg,Rotterdam,3312
+Cape Town,Istanbul,4050
+Rio de Janeiro,Le Havre,14692
+Shanghai,Rio de Janeiro,11271
+Suez,Tokyo,11720
+Veracruz,Vancouver,7467
+Port Klang,Istanbul,16104
+Rotterdam,Hamburg,15395
+Colombo,Genoa,5603
+Vancouver,Dubai,7494
+Tokyo,Barcelona,1526
+Veracruz,Le Havre,12961
+Colombo,Mumbai,14593
+Vancouver,Shanghai,2272
+Shanghai,Singapore,14358
+Hamburg,Busan,6270
+Suez,Dubai,2769
+Hamburg,Rio de Janeiro,3177
+Los Angeles,Port Klang,15292
+Sydney,London,7515
+Jakarta,Hamburg,6531
+Colombo,Suez,14542
+Tokyo,Le Havre,10228
+Cape Town,Shanghai,11945
+Sydney,Vancouver,16081
+Genoa,Port Klang,5765
+Port Klang,Sydney,12122
+Port Klang,Barcelona,13251
+Singapore,Genoa,7006
+Suez,Istanbul,19455
+Veracruz,Dubai,11108
+Jakarta,Istanbul,10871
+Singapore,Dubai,15529
+Dubai,Vancouver,10868
+Rotterdam,Jakarta,13816
+Hamburg,London,620
+St. Petersburg,Dubai,15223
+Busan,Barcelona,3693
+Colombo,Shanghai,6649
+Sydney,Port Klang,18394
+Le Havre,Cape Town,12871
+Shanghai,Mumbai,7373
+Shanghai,Jakarta,19401
+Singapore,Mumbai,12420
+Singapore,Los Angeles,10558
+London,Rotterdam,16855
+Busan,St. Petersburg,14067
+Sydney,Mumbai,12041
+Genoa,Sydney,17643
+Le Havre,Tokyo,4215
+Cape Town,St. Petersburg,14537
+Mumbai,Cape Town,18612
+Veracruz,Cape Town,18285
+Sydney,Rio de Janeiro,9839
+Jakarta,Port Klang,14835
+Busan,Los Angeles,3751
+Suez,Rotterdam,3437
+Busan,Singapore,13976
+Rotterdam,Vancouver,18349
+Rotterdam,Busan,15052
+London,Barcelona,1569
+Jakarta,Los Angeles,14283
+Shanghai,New York,15397
+Genoa,Rio de Janeiro,4251
+Shanghai,Vancouver,4577
+Mumbai,St. Petersburg,14031
+Busan,Port Klang,13469
+Singapore,Mumbai,7837
+London,Los Angeles,9269
+Jakarta,Hamburg,10572
+Sydney,Jakarta,8415
+Singapore,Sydney,1570
+Singapore,Dubai,12768
+London,Istanbul,10902
+Tokyo,Cape Town,19249
+Sydney,New York,18710
+Rio de Janeiro,Shanghai,13388
+Colombo,Barcelona,14560
+Dubai,Busan,13293
+Istanbul,Cape Town,13709
+Tokyo,London,5691
+Sydney,New York,3762
+Port Klang,Dubai,17023
+Rotterdam,Busan,19404
+Rio de Janeiro,Le Havre,9027
+Genoa,Cape Town,11064
+Shanghai,Suez,3556
+Singapore,Sydney,878
+Busan,Le Havre,19940
+Dubai,Singapore,18315
+Suez,Barcelona,13030
+Singapore,Istanbul,4777
+St. Petersburg,Busan,12234
+Cape Town,New York,7766
+Los Angeles,Shanghai,18044
+New York,Istanbul,12889
+Le Havre,Hamburg,2195
+Hamburg,Suez,5211
+Busan,Singapore,19484
+Rotterdam,St. Petersburg,4520
+Rotterdam,Dubai,9755
+Hamburg,Cape Town,3540
+Suez,Vancouver,12342
+Shanghai,Rio de Janeiro,3798
+Vancouver,Singapore,14057
+Suez,Vancouver,3000
+Shanghai,Jakarta,14259
+Rio de Janeiro,Tokyo,15274
+Cape Town,Los Angeles,832
+Cape Town,Jakarta,19089
+Busan,Veracruz,1530
+Rotterdam,Tokyo,11863
+Vancouver,Veracruz,18407
+Singapore,Cape Town,17596
+Istanbul,Hamburg,4484
+Shanghai,Veracruz,1468
+Genoa,Singapore,17473
+London,Le Havre,5492
+Shanghai,Mumbai,4261
+Shanghai,Singapore,11232
+Dubai,New York,3234
+Istanbul,Port Klang,4647
+Hamburg,Vancouver,7028
+Suez,Mumbai,18571
+Busan,Los Angeles,15804
+Istanbul,Vancouver,14788
+London,Rio de Janeiro,6826
+Hamburg,Cape Town,6984
+Jakarta,Port Klang,9710
+Rio de Janeiro,Rotterdam,19624
+Le Havre,Barcelona,10710
+Cape Town,Shanghai,16485
+Sydney,St. Petersburg,14385
+Veracruz,Istanbul,9402
+Tokyo,Veracruz,4024
+Veracruz,Rio de Janeiro,14567
+Shanghai,Barcelona,12064
+Mumbai,Busan,2605
+St. Petersburg,Cape Town,1606
+London,Hamburg,19730
+Sydney,Los Angeles,17883
+Mumbai,Rio de Janeiro,1481
+Rotterdam,Cape Town,11073
+Sydney,Cape Town,12222
+New York,Suez,7551
+Jakarta,Mumbai,12688
+Dubai,Le Havre,10803
+Rotterdam,Singapore,10939
+Port Klang,Singapore,11276
+Shanghai,St. Petersburg,19094
+Tokyo,New York,18903
+Suez,Rio de Janeiro,9793
+Veracruz,Shanghai,17777
+Shanghai,Rotterdam,18881
+Hamburg,Port Klang,2951
+Barcelona,Busan,14319
+Jakarta,Le Havre,14760
+Tokyo,Shanghai,6959
+Colombo,Vancouver,16839
+Colombo,Hamburg,14303
+Rotterdam,St. Petersburg,6107
+Veracruz,Tokyo,19871
+Rio de Janeiro,New York,19387
+Singapore,Los Angeles,1084
+Busan,Barcelona,652
+St. Petersburg,Los Angeles,4794
+Rio de Janeiro,Colombo,17980
+London,Colombo,11555
+Busan,Singapore,2775
+Vancouver,Rotterdam,14101
+Istanbul,Los Angeles,9500
+Tokyo,Le Havre,11831
+Rio de Janeiro,Suez,18733
+Le Havre,Tokyo,16681
+Veracruz,Colombo,13388
+Los Angeles,Port Klang,15395
+Vancouver,Busan,4478
+Mumbai,Veracruz,3866
+Singapore,New York,2067
+Singapore,Dubai,3945
+Tokyo,Port Klang,14776
+New York,Cape Town,3384
+Shanghai,Istanbul,12587
+Genoa,Singapore,2220
+Hamburg,Colombo,4130
+Colombo,Los Angeles,2958
+Hamburg,Tokyo,12937
+Hamburg,Port Klang,6081
+Dubai,Barcelona,15596
+Rotterdam,Dubai,10963
+Dubai,Le Havre,19640
+Sydney,Busan,15140
+Jakarta,Rotterdam,17597
+London,New York,19436
+Vancouver,Jakarta,16559
+Hamburg,Tokyo,16317
+New York,Suez,9144
+Le Havre,Los Angeles,3213
+Mumbai,Genoa,8442
+Jakarta,Busan,7246
+Port Klang,Suez,2962
+Vancouver,Colombo,7462
+Singapore,Jakarta,7582
+St. Petersburg,Rio de Janeiro,6657
+Vancouver,Rotterdam,11655
+Shanghai,Barcelona,17789
+London,Tokyo,10717
+Port Klang,St. Petersburg,5546
+London,Rotterdam,4761
+New York,Mumbai,13134
+St. Petersburg,Veracruz,17325
+Shanghai,Le Havre,13613
+Shanghai,Suez,9604
+Sydney,Cape Town,10564
+Barcelona,Busan,3844
+Dubai,St. Petersburg,4011
+Istanbul,Rotterdam,8382
+Singapore,St. Petersburg,6628
+Hamburg,Singapore,16105
+Jakarta,London,15332
+Mumbai,Hamburg,4377
+Genoa,Suez,12113
+Sydney,Shanghai,5435
+Rio de Janeiro,London,14618
+London,Tokyo,2241
+St. Petersburg,Hamburg,12616
+Rotterdam,Colombo,13034
+Istanbul,Sydney,6854
+Los Angeles,Shanghai,13695
+Cape Town,Veracruz,9541
+London,Veracruz,16674
+London,Sydney,4077
+Jakarta,Colombo,8657
+Rotterdam,New York,4274
+Colombo,Barcelona,9222
+New York,Suez,17936
+Rotterdam,Hamburg,7920
+Veracruz,Port Klang,13756
+Rio de Janeiro,Rotterdam,7705
+Istanbul,Port Klang,9290
+Vancouver,Shanghai,6104
+Shanghai,Mumbai,9936
+Port Klang,Veracruz,9936
+Istanbul,Singapore,3588
+Cape Town,London,16122
+Istanbul,Los Angeles,8319
+Cape Town,Tokyo,2775
+Cape Town,Tokyo,15416
+Dubai,Singapore,16051
+Sydney,Tokyo,1182
+Cape Town,Hamburg,3022
+Cape Town,Jakarta,818
+Veracruz,Mumbai,16026
+Barcelona,Singapore,16500
+New York,Vancouver,4084
+Colombo,Singapore,19088
+Jakarta,Los Angeles,7980
+London,Cape Town,5303
+Le Havre,Rotterdam,3776
+Los Angeles,Istanbul,11499
+St. Petersburg,Vancouver,11994
+Genoa,Hamburg,16441
+Hamburg,Mumbai,15532
+Singapore,Mumbai,10367
+Port Klang,Tokyo,17468
+Le Havre,Jakarta,16371
+Rotterdam,Hamburg,17516
+Istanbul,Busan,1179
+Dubai,Sydney,7717
+Jakarta,Dubai,12204
+Vancouver,Singapore,8507
+Barcelona,Istanbul,14613
+Mumbai,Shanghai,3425
+Shanghai,Rio de Janeiro,4036
+Hamburg,Busan,18355
+St. Petersburg,London,6232
+Hamburg,Jakarta,11930
+Tokyo,Rio de Janeiro,19805
+Sydney,Hamburg,10635
+Shanghai,Colombo,19489
+London,Port Klang,11748
+Veracruz,Rotterdam,14703
+St. Petersburg,Barcelona,11870
+Los Angeles,Rotterdam,773
+Vancouver,Jakarta,5321
+St. Petersburg,Jakarta,5422
+London,Los Angeles,18789
+Jakarta,Cape Town,10449
+Vancouver,Los Angeles,2617
+Los Angeles,Singapore,15372
+Colombo,Shanghai,9773
+Barcelona,Rotterdam,2243
+Vancouver,Los Angeles,666
+Sydney,Mumbai,521
